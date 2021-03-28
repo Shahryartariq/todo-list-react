@@ -1,6 +1,6 @@
 import React from "react";
 
-const TodoLists = (props) => {
+const TodoListItem = (props) => {
   return (
     <>
       <div className="todo__style">
@@ -16,4 +16,4 @@ const TodoLists = (props) => {
   );
 };
 
-export default TodoLists;
+export default TodoListItem;
